@@ -27,7 +27,7 @@
     "browserify-middleware": "7.1.0",
     "cmdparser": "0.0.3",
     "ejs": "0.8.8",
-    "express": "3.x.x",
+    "express": "4.x.x",
     "express-partials": "0.3.0",
     "inflection": "1.2.7",
     "ioredis": "1.15.1",
