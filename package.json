@@ -31,7 +31,7 @@
     "express-partials": "0.3.0",
     "inflection": "1.2.7",
     "ioredis": "1.15.1",
-    "jsonwebtoken": "8.1.0",
+    "jsonwebtoken": "9.0.0",
     "method-override": "2.3.10",
     "node-redis-dump": "0.2.1",
     "optimist": "0.3.7",
